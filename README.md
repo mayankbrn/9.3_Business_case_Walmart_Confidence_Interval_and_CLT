@@ -1,4 +1,4 @@
-# 9.3_Walmart_Confidence_Interval_and_CLT
+# 9.3_Walmart_ConfidenceInterval_and_CLT
 
 ![Walmart logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/Walmart_logo.svg)
 
